@@ -63,13 +63,7 @@ Vrinda-Store-Sales-Analysis/
 
 ## 📸 Dashboard Preview
 
-Add a screenshot of your dashboard here.
-
-```markdown
-![Dashboard Preview](Dashboard%20Screenshot.png)
-```
-
----
+![alt text](<03 Images/bb9cc474-d265-4ba7-9850-bdee8d0bdbb4.png>)
 
 ## 📈 Key Insights
 
